@@ -1,0 +1,35 @@
+{
+  "name": "zbo_front_test_candidat",
+  "version": "1.0.0",
+  "description": "Test technique front",
+  "main": "./dist/index.js",
+  "scripts": {
+    "dev": "nodemon --watch src -e js,ts,json --exec \"ts-node src/index.ts\"",
+    "build": "tsup src/index.ts --format cjs --clean",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthieuzbo/zbo_front_test_candidat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.3",
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "@types/node": "^18.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.29.0",
+    "@typescript-eslint/parser": "^5.29.0",
+    "eslint": "^8.18.0",
+    "nodemon": "^2.0.16",
+    "ts-node": "^10.8.1",
+    "tsconfig-paths": "^4.0.0",
+    "tsup": "^6.1.2",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}

@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "email": "sophie_ramos@mail.com",
+    "role": "trader",
+    "firstname": "Sophie",
+    "lastname": "Ramos"
+  },
+  {
+    "id": 2,
+    "email": "remy_dijoux@mail.com",
+    "role": "contact",
+    "firstname": "Rémy",
+    "lastname": "Dijoux"
+  },
+  {
+    "id": 3,
+    "email": "jerome_lecomte@mail.com",
+    "role": "sale",
+    "firstname": "Jérôme",
+    "lastname": "Lecomte"
+  },
+  {
+    "id": 4,
+    "email": "aime_labbe-thibault@mail.com",
+    "role": "account-manager",
+    "firstname": "Aimé",
+    "lastname": "Labbe-Thibault"
+  },
+  {
+    "id": 5,
+    "email": "margaret_brun@mail.com",
+    "role": "contact",
+    "firstname": "Margaret",
+    "lastname": "Brun"
+  },
+  {
+    "id": 6,
+    "email": "ines_de_marques@mail.com",
+    "role": "trader",
+    "firstname": "Inès",
+    "lastname": "de Marques"
+  },
+  {
+    "id": 7,
+    "email": "sebastien_fernandez-bertrand@mail.com",
+    "role": "client",
+    "firstname": "Sébastien",
+    "lastname": "Fernandez-Bertrand"
+  },
+  {
+    "id": 8,
+    "email": "edith-louise_pottier@mail.com",
+    "role": "account-manager",
+    "firstname": "Édith-Louise",
+    "lastname": "Pottier"
+  },
+  {
+    "id": 9,
+    "email": "isaac_benoit_du_jean@mail.com",
+    "role": "trader",
+    "firstname": "Isaac",
+    "lastname": "Benoit du Jean"
+  },
+  {
+    "id": 10,
+    "email": "vincent_lebreton@mail.com",
+    "role": "sale",
+    "firstname": "Vincent",
+    "lastname": "Lebreton"
+  },
+  {
+    "id": 11,
+    "email": "michele_brun@mail.com",
+    "role": "client",
+    "firstname": "Michèle",
+    "lastname": "Brun"
+  },
+  {
+    "id": 12,
+    "email": "jerome_petitjean@mail.com",
+    "role": "trader",
+    "firstname": "Jérôme",
+    "lastname": "Petitjean"
+  },
+  {
+    "id": 13,
+    "email": "alphonse_olivier@mail.com",
+    "role": "client",
+    "firstname": "Alphonse",
+    "lastname": "Olivier"
+  },
+  {
+    "id": 14,
+    "email": "alexandria_maillet@mail.com",
+    "role": "account-manager",
+    "firstname": "Alexandria",
+    "lastname": "Maillet"
+  },
+  {
+    "id": 15,
+    "email": "louise_chevalier@mail.com",
+    "role": "account-manager",
+    "firstname": "Louise",
+    "lastname": "Chevalier"
+  },
+  {
+    "id": 16,
+    "email": "laurence_baron@mail.com",
+    "role": "account-manager",
+    "firstname": "Laurence",
+    "lastname": "Baron"
+  },
+  {
+    "id": 17,
+    "email": "renee-elodie_fontaine@mail.com",
+    "role": "sale",
+    "firstname": "Renée-Élodie",
+    "lastname": "Fontaine"
+  },
+  {
+    "id": 18,
+    "email": "colette_bertin@mail.com",
+    "role": "client",
+    "firstname": "Colette",
+    "lastname": "Bertin"
+  },
+  {
+    "id": 19,
+    "email": "laetitia_barbe@mail.com",
+    "role": "trader",
+    "firstname": "Laetitia",
+    "lastname": "Barbe"
+  },
+  {
+    "id": 20,
+    "email": "yves_thomas@mail.com",
+    "role": "contact",
+    "firstname": "Yves",
+    "lastname": "Thomas"
+  },
+  {
+    "id": 21,
+    "email": "mj2@mail.com",
+    "role": "account-manager",
+    "firstname": "Mj",
+    "lastname": "Jm"
+  }
+]
